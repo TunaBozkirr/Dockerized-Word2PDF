@@ -1,2 +1,2 @@
 # word-to-pdf-converter
-word to pdf converter
+Word to pdf converter
